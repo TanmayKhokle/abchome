@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/32px/Facebook Copy</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer_XL" transform="translate(-1266.000000, -209.000000)">
+            <g id="Copyright/Social" transform="translate(69.000000, 204.000000)">
+                <g id="Social" transform="translate(1112.000000, 0.000000)">
+                    <g id="Icon/32px/Facebook-Copy" transform="translate(80.000000, 0.000000)" filter="url(#filter-1)">
+                        <g>
+                            <rect id="Icon-BG" x="0" y="0" width="32" height="32"></rect>
+                            <g id="001-linkedin" transform="translate(5.000000, 5.000000)" fill="#000000" fill-rule="nonzero">
+                                <path d="M21.9945,22 L21.9945,21.9990833 L22,21.9990833 L22,13.9305833 C22,9.98341667 21.15025,6.94283333 16.53575,6.94283333 C14.3174167,6.94283333 12.82875,8.16016667 12.221,9.31425 L12.1568333,9.31425 L12.1568333,7.31133333 L7.78158333,7.31133333 L7.78158333,21.9990833 L12.3374167,21.9990833 L12.3374167,14.72625 C12.3374167,12.8113333 12.7004167,10.9596667 15.0718333,10.9596667 C17.4084167,10.9596667 17.44325,13.145 17.44325,14.8490833 L17.44325,22 L21.9945,22 Z" id="Path"></path>
+                                <polygon id="Path" points="0.363 7.31225 4.92433333 7.31225 4.92433333 22 0.363 22"></polygon>
+                                <path d="M2.64183333,0 C1.18341667,0 0,1.18341667 0,2.64183333 C0,4.10025 1.18341667,5.30841667 2.64183333,5.30841667 C4.10025,5.30841667 5.28366667,4.10025 5.28366667,2.64183333 C5.28275,1.18341667 4.09933333,0 2.64183333,0 Z" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
